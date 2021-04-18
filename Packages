@@ -12,3 +12,18 @@ Priority: optional
 Author: chrisdapen
 Name: 威锋去新闻
 
+Package: com.dapen.cc.weifenghook1
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.dapen.cc.weifenghook1_0.1-1_iphoneos-arm.deb
+Size: 12058
+MD5sum: 0af73d29b80aeb626d911e0123209d32
+SHA1: 4af75a5f31b4babeb64dceb3461e251bcd05e66c
+SHA256: 452b4472f0fd4a5bcd07be438a33a6178aa65d1ab62b3f51088aba764dfbb0ce
+Section: Tweak
+Priority: optional
+Author: chrisdapen
+Icon: dy.png
+Name: 威锋测试
+
