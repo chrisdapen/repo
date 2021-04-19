@@ -5,11 +5,11 @@ Maintainer: MiRO <tweaks_support@miro92.com>
 Installed-Size: 904
 Depends: firmware (>=12.0), mobilesubstrate, com.miro.libmiroprefs (>=1.0.2), preferenceloader, ws.hbang.common (>= 1.11)
 Conflicts: com.iky1e.swipeselection, com.iky1e.swipeselection-pro, com.yourepo.restiveconch.swipeselectionfix, com.miro.swipeselection
-Filename: ./debs/com.miro.marker_1.0.3_iphoneos-arm.deb
-Size: 182020
-MD5sum: 90d956048427e5242248201ec3093904
-SHA1: 4056fbc83c80497b856c2037a43454354bac3262
-SHA256: 279a1497f1505cf50f8c240b8c5d68f0b14f8b9b58a83dd4b077a50619e2db89
+Filename: ./debs/maker1.0.3.deb
+Size: 174232
+MD5sum: a9c1ab2332237828416a7177a71145f7
+SHA1: 25056913901b96071c9983cc5c0b9f5736852cec
+SHA256: ab12d35555b8cfebe9e3cf4e07518b8e2edcf0423899c2542bb69bb8ed3ef125
 Section: Tweaks
 Description: A better and easy way to move the cursor and select text on iOS.
 Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
