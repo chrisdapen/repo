@@ -27,3 +27,18 @@ Author: chrisdapen
 Icon: dy.png
 Name: 威锋测试
 
+Package: com.dapen.lppz
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: chrisdapen
+Depends: firmware (>= 10.0)
+Filename: ./debs/lppz.deb
+Size: 28624032
+MD5sum: d964e607473c8dc198341fd771074405
+SHA1: 0afda4192b81da7dd75cbfdc9625e0aa643a5af3
+SHA256: 2bb58773a1c7b1b84c5014813c89cda52edbb9ab4b4c21d8a0b9cd80ac5f1275
+Section: System
+Author: chrisdapne <admin@abcydia.com>
+Name: 良品铺子直装
+Sponsor: chrisdapen <http://www.abcydia.com>
+
